@@ -1,7 +1,7 @@
 # ash-fetch [wip]
 
 A simple fetch written in bash to display some important system information.
-currently supports void linux only.I'm thinking on expanding this to other distros.
+currently supports [void linux](https://voidlinux.org/) only.I'm thinking on expanding this to other distros.
 
 ![alt text](https://github.com/ashzero2/ash-fetch/blob/main/screenshot/2021-04-03-184401_534x332_scrot.png)
 
@@ -18,5 +18,6 @@ copy or move [ash-fetch](https://github.com/ashzero2/ash-fetch/blob/main/ash-fet
 - [ ] add debian support
 - [ ] add arch support
 
-### Inspired by :
-[pfetch](https://github.com/dylanaraps/pfetch) cuz i cant create a ascii art for void :)
+### Credits :
+Ascii art - [pfetch](https://github.com/dylanaraps/pfetch)
+Glyphs    - [Nerd Fonts](https://www.nerdfonts.com/)
