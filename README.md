@@ -19,7 +19,6 @@ copy or move [ash-fetch](https://github.com/ashzero2/ash-fetch/blob/main/ash-fet
 - [ ] add arch support
 
 ### Credits :
-```
-Ascii art - [pfetch](https://github.com/dylanaraps/pfetch)
-Glyphs    - [Nerd Fonts](https://www.nerdfonts.com/)
-```
+- Ascii art - [pfetch](https://github.com/dylanaraps/pfetch)
+- Glyphs    - [Nerd Fonts](https://www.nerdfonts.com/)
+
