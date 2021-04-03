@@ -12,5 +12,11 @@ copy or move [ash-fetch](https://github.com/ashzero2/ash-fetch/blob/main/ash-fet
 
 >ash-fetch.sh
 
+#To-Do
+- [x] Void support
+- [ ] add flatpaks counts
+- [ ] add debian support
+- [ ] add arch support
+
 ### Inspired by :
 [pfetch](https://github.com/dylanaraps/pfetch) cuz i cant create a ascii art for void :)
